@@ -6,13 +6,19 @@ This repository is where I keep my projects from École 42.
 
 École 42 is a tuition-free computer programming school that uses peer-to-peer learning and project-based curriculum.
 
+## Getting Started
+
+**START HERE:** If you're following along or reviewing these projects, begin with **Piscine Reloaded** - it's the foundation project that reviews essential C programming concepts from the piscine.
+
+👉 Navigate to the `piscine-reloaded/` directory to start your journey!
+
 ## Project Tracker
 
 ### Core Curriculum
 
 #### Foundation
 - [ ] **42 Commandements** - Code of conduct
-- [ ] **Piscine Reloaded** - Go over some exercises from the piscine (Basics of C)
+- [ ] **Piscine Reloaded** - ⭐ START HERE! Go over some exercises from the piscine (Basics of C) → `piscine-reloaded/`
 - [ ] **Libft** - Recode a number of standard C library functions (Basics of C, static libraries)
 - [ ] **Get_Next_Line** - Read content line by line (File descriptors, basic parsing, bufferisation)
 - [ ] **Fillit** - What's the smallest square for these tetriminos? (Basic algorithm, input/output)
