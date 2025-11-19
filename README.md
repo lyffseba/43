@@ -67,3 +67,33 @@ Each project directory contains:
 2. Update the Progress Summary accordingly
 3. Add new projects to relevant branches as they become available
 4. Keep project directories organized with consistent naming
+
+## Branching Strategy
+
+This repository uses a branch-per-project approach:
+
+- **`main`** - Contains only the README, project structure, and documentation
+- **`piscine-reloaded`** - Contains all work for the Piscine Reloaded project
+- **`libft`** - (Future) Will contain all work for the Libft project
+- **`get-next-line`** - (Future) Will contain all work for Get Next Line project
+- And so on for each project...
+
+### Why This Approach?
+
+- Keeps the main branch clean and focused on documentation
+- Each project is isolated in its own branch
+- Easy to review individual projects without clutter
+- Follows best practices for project organization
+
+### Working with Branches
+
+```bash
+# Switch to a project branch
+git checkout piscine-reloaded
+
+# Create a new project branch
+git checkout -b project-name
+
+# Push your work
+git push -u origin project-name
+```
