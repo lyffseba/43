@@ -17,7 +17,6 @@ This repository is where I keep my projects from École 42.
 ### Core Curriculum
 
 #### Foundation
-- [ ] **42 Commandements** - Code of conduct
 - [ ] **Piscine Reloaded** - ⭐ START HERE! Go over some exercises from the piscine (Basics of C) → `piscine_reloaded/`
 - [ ] **Libft** - Recode a number of standard C library functions (Basics of C, static libraries)
 - [ ] **Get_Next_Line** - Read content line by line (File descriptors, basic parsing, bufferisation)
