@@ -10,7 +10,7 @@ This repository is where I keep my projects from École 42.
 
 **START HERE:** If you're following along or reviewing these projects, begin with **Piscine Reloaded** - it's the foundation project that reviews essential C programming concepts from the piscine.
 
-👉 Navigate to the `piscine-reloaded/` directory to start your journey!
+👉 Navigate to the `piscine_reloaded/` directory to start your journey!
 
 ## Project Tracker
 
@@ -18,7 +18,7 @@ This repository is where I keep my projects from École 42.
 
 #### Foundation
 - [ ] **42 Commandements** - Code of conduct
-- [ ] **Piscine Reloaded** - ⭐ START HERE! Go over some exercises from the piscine (Basics of C) → `piscine-reloaded/`
+- [ ] **Piscine Reloaded** - ⭐ START HERE! Go over some exercises from the piscine (Basics of C) → `piscine_reloaded/`
 - [ ] **Libft** - Recode a number of standard C library functions (Basics of C, static libraries)
 - [ ] **Get_Next_Line** - Read content line by line (File descriptors, basic parsing, bufferisation)
 - [ ] **Fillit** - What's the smallest square for these tetriminos? (Basic algorithm, input/output)
@@ -73,7 +73,7 @@ Each project directory contains:
 This repository uses a branch-per-project approach:
 
 - **`main`** - Contains only the README, project structure, and documentation
-- **`piscine-reloaded`** - Contains all work for the Piscine Reloaded project
+- **`piscine_reloaded`** - Contains all work for the Piscine Reloaded project
 - **`libft`** - (Future) Will contain all work for the Libft project
 - **`get-next-line`** - (Future) Will contain all work for Get Next Line project
 - And so on for each project...
@@ -89,7 +89,7 @@ This repository uses a branch-per-project approach:
 
 ```bash
 # Switch to a project branch
-git checkout piscine-reloaded
+git checkout piscine_reloaded
 
 # Create a new project branch
 git checkout -b project-name
