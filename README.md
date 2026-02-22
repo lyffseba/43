@@ -2,10 +2,6 @@
 
 This repository is where I keep my projects from École 42.
 
-## OpenCode Test
-
-Testing OpenCode auto-review on PRs.
-
 ## About 42
 
 École 42 is a tuition-free computer programming school that uses peer-to-peer learning and project-based curriculum.
