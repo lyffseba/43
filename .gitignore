@@ -1,8 +1,7 @@
-# libft build
-libft/*.o
-libft/src/*.o
-libft/libft.a
-libft/test_smoke
-libft/a.out
+# Build artifacts
 *.o
 *.a
+*.out
+libft/test_*
+libft/a.out
+.DS_Store

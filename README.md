@@ -66,3 +66,15 @@ Each project directory contains:
 2. Update the Progress Summary accordingly
 3. Add new projects to relevant branches as they become available
 4. Keep project directories organized with consistent naming
+
+## Libft
+
+```bash
+cd libft
+make
+# produces libft.a (Part 1 libc + Part 2 additional)
+make fclean
+```
+
+Mandatory coverage: memset/bzero/memcpy/memmove/…, string helpers, is*/to*, memalloc/strnew/strsplit/itoa, put*_fd.
+
